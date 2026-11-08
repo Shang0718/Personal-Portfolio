@@ -67,8 +67,10 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-### Personal Portfolio Website
-![Portfolio Screenshot](public/PORFOLI%20SS.png)
+## Screenshots
+
+### Portfolio Website
+![Portfolio](./public/PORFOLI%20SS.png)
 
 ### BSL Server Running
-![BSL Server Screenshot](public/BZG%20RUNNSS.png)
+![BSL Server](./public/BZG%20RUNNSS.png)
