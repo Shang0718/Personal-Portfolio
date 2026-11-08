@@ -67,7 +67,7 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-## Screenshots
+
 
 ### Portfolio Website
 ![Portfolio](./public/PORFOLI%20SS.png)
