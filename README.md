@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 ## Screenshots
 
 ### Portfolio Website
-![Portfolio](./public/PORTFOLI%20SS.jpg)
+![Portfolio](./public/PORTFOLIO%20SS.jpg)
 
 ### BSL Server Running
 ![BSL Server](./public/BZG%20RUNNSS.jpg)
