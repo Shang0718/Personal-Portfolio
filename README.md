@@ -70,7 +70,7 @@ This project is licensed under the MIT License.
 
 
 ### Portfolio Website
-![Portfolio](./public/PORFOLI%20SS.png)
+![Portfolio](./public/PORFOLI%20SS.jpg)
 
 ### BSL Server Running
-![BSL Server](./public/BZG%20RUNNSS.png)
+![BSL Server](./public/BZG%20RUNNSS.jpg)
